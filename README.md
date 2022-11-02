@@ -1,24 +1,8 @@
-# Relações de Recorrência
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/LICENSE) 
+# InsertAndMerge
+University activity
 
-# Sobre o projeto
+Image of the MergeSort Method made by hand aka Chinese debug
+![LoadedImage](../Images/Compara%C3%A7%C3%B5es%2016%20n%C3%BAmeros.png)
 
-Projeto acadêmico, onde caucula as relações de recorrecorrência entre os metodos de ordenação: MergeSort e InsertionSort, ambos recursivos.  
-
-## Resultados das buscas:
-![Resultado](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/assets/Tabela.png) 
-
-## Conferência
-![Codigo](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/assets/Vetor%2016%20posi%C3%A7%C3%B5es.png)
-![Exel](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/assets/Exel%2016%20posi%C3%A7oes.png)
-
-
-# Tecnologias utilizadas
-- Java
-
-
-# Autor
-
-Wallace Ricardo Pereira Junior
-
-https://www.linkedin.com/in/wallace-junior-976809235/
+Table showing the number of iterations as well the execution time of both InsertionSort and MergeSort side by side
+![LoadedImage](../Images/Tempos%20de%20Execu%C3%A7%C3%A3o.png)
