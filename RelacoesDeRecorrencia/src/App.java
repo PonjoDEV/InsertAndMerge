@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        int vectorSize = 100000;        // int vectorSize = 16;
+        int vectorSize = 10000;        // int vectorSize = 16;
 
         Random random = new Random();
         int[] mergevector = new int[vectorSize];
@@ -35,7 +35,7 @@ public class App {
         double totalTime = endTime - startTime;
 
         long startTime2 = System.nanoTime();
-        //insertionSort(insertionvector, 0);
+        insertionSort(insertionvector, 0);
         long endTime2 = System.nanoTime();
 
         double totalTime2 = endTime2 - startTime2;
