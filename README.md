@@ -1,7 +1,7 @@
 # InsertAndMerge
 University activity
 Name: Gabriel Oliveira Gomes
-Student ID: 0058401
+
 
 Image of the MergeSort Method made by hand aka Chinese debug
 
